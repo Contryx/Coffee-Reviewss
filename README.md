@@ -27,3 +27,5 @@ https://task1staticc.streamlit.app/
 
 Data Cleaning
 No additional cleaning was performed on the provided simplified_coffee.csv.
+
+ https://drive.google.com/file/d/1lW48gx91W2okBfsZleKOYdIqnSg-jWNg/view?usp=sharing
